@@ -21,12 +21,12 @@ This repository contains all six experiments from the ML lab manual, implemented
 
 Each notebook can be opened directly in Colab (no installation needed):
 
-1. [Experiment 1 - Python Environment](https://colab.research.google.com/github/harir03/ml-lab-experiments/blob/main/EXP1_Python_Environment_Colab.ipynb)
-2. [Experiment 2 - Data Visualization](https://colab.research.google.com/github/harir03/ml-lab-experiments/blob/main/EXP2_Data_Visualization_Matplotlib.ipynb)
-3. [Experiment 3 - Data Pre-processing](https://colab.research.google.com/github/harir03/ml-lab-experiments/blob/main/EXP3_Data_Preprocessing_Cleaning.ipynb)
-4. [Experiment 4 - Feature Scaling](https://colab.research.google.com/github/harir03/ml-lab-experiments/blob/main/EXP4_Feature_Scaling.ipynb)
-5. [Experiment 5 - Linear Regression](https://colab.research.google.com/github/harir03/ml-lab-experiments/blob/main/EXP5_Linear_Regression_Concrete_Strength.ipynb)
-6. [Experiment 6 - Logistic Regression](https://colab.research.google.com/github/harir03/ml-lab-experiments/blob/main/EXP6_Logistic_Regression_Breast_Cancer.ipynb)
+1. [Experiment 1 - Python Environment](https://colab.research.google.com/github/harir03/Mlprac/blob/main/EXP1_Python_Environment_Colab.ipynb)
+2. [Experiment 2 - Data Visualization](https://colab.research.google.com/github/harir03/Mlprac/blob/main/EXP2_Data_Visualization_Matplotlib.ipynb)
+3. [Experiment 3 - Data Pre-processing](https://colab.research.google.com/github/harir03/Mlprac/blob/main/EXP3_Data_Preprocessing_Cleaning.ipynb)
+4. [Experiment 4 - Feature Scaling](https://colab.research.google.com/github/harir03/Mlprac/blob/main/EXP4_Feature_Scaling.ipynb)
+5. [Experiment 5 - Linear Regression](https://colab.research.google.com/github/harir03/Mlprac/blob/main/EXP5_Linear_Regression_Concrete_Strength.ipynb)
+6. [Experiment 6 - Logistic Regression](https://colab.research.google.com/github/harir03/Mlprac/blob/main/EXP6_Logistic_Regression_Breast_Cancer.ipynb)
 
 Or: open [colab.research.google.com](https://colab.research.google.com) -> File -> Open notebook -> GitHub -> paste this repository's URL.
 
