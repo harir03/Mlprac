@@ -42,3 +42,23 @@ jupyter notebook
 - Experiments 1, 3, 4 and 6 use the exact input datasets given in the lab manual (Experiment 6 uses the built-in Wisconsin Breast Cancer Diagnostic dataset from scikit-learn).
 - Experiments 2 and 5 use seeded simulated data exactly as specified in the manual (`np.random.seed(42)` / `default_rng(42)`), so all results are reproducible. The concrete-strength dataset in Experiment 5 is synthetic, generated from the physically realistic relation stated in the manual, and is labelled as such inside the notebook.
 - All outputs shown in the notebooks are real executed outputs, including the graphs.
+
+## How to show this (demo guide)
+
+**Quickest demo (no setup):** open the notebooks in Google Colab straight from Google Drive. They are already executed - all code outputs and graphs are visible without running anything.
+
+1. Go to [colab.research.google.com](https://colab.research.google.com).
+2. File -> Open notebook -> Google Drive -> "Colab Notebooks" folder.
+3. Open any experiment notebook. Scroll through: Aim, Theory, Procedure, Input Data, Code, Outputs, Observations, Conclusion.
+4. To re-run live: Runtime -> Run all.
+
+Direct Drive links (open with Google Colab):
+
+1. [Experiment 1 - Python Environment](https://drive.google.com/file/d/1Jjjuuz4kE2Nqx4j2LVCD6P-0-Y5PZdk6/view)
+2. [Experiment 2 - Data Visualization](https://drive.google.com/file/d/1Pp6MtpadfgIynDz6ufS2MJvsDlRdqZ3B/view)
+3. [Experiment 3 - Data Pre-processing](https://drive.google.com/file/d/1lBvifNdJppr_EUD9JRQoDs_2bAIAO1oA/view)
+4. [Experiment 4 - Feature Scaling](https://drive.google.com/file/d/1AHuDd51Jm80Ftm265YVQywOi6U6pVHGN/view)
+5. [Experiment 5 - Linear Regression](https://drive.google.com/file/d/1b97gX3_BBmGeRM1ATXcMQkBPKIAqqXUW/view)
+6. [Experiment 6 - Logistic Regression](https://drive.google.com/file/d/1yaQJzuKs-8OS1IEfK_jRkyTUUDp6uCeR/view)
+
+**From GitHub:** open any notebook file in this repository - GitHub renders the notebook with all outputs and graphs directly in the browser, nothing to run. The "Open in Google Colab" links in the table above open the same notebooks in Colab.
