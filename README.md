@@ -4,7 +4,7 @@
 Department of Electronics & Telecommunication Engineering
 Subject: Machine Learning Lab (T.E., Semester I)
 
-This repository contains all six experiments from the ML lab manual, implemented and executed in Jupyter / Google Colab notebooks. Every notebook includes the aim, theory, procedure, input data, program code, real executed outputs (console + graphs), observations, result and conclusion.
+This repository contains all six experiments from the ML lab manual as Google Colab notebooks: just the code, the input data and the real executed output (console + graphs). No theory or manual text inside the notebooks. To use your own data: edit the values in the marked data cell, then Runtime -> Run all, and the output below each cell updates.
 
 ## Experiments
 
@@ -49,8 +49,8 @@ jupyter notebook
 
 1. Go to [colab.research.google.com](https://colab.research.google.com).
 2. File -> Open notebook -> Google Drive -> "Colab Notebooks" folder.
-3. Open any experiment notebook. Scroll through: Aim, Theory, Procedure, Input Data, Code, Outputs, Observations, Conclusion.
-4. To re-run live: Runtime -> Run all.
+3. Open any experiment notebook. Each one shows the code and its executed output directly below it.
+4. To run live with your own data: change the values in the marked data cell, then Runtime -> Run all.
 
 Direct Drive links (open with Google Colab):
 
